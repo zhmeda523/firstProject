@@ -1,2 +1,2 @@
 # firstProject
-no
+this is a project about Vue study
